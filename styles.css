@@ -1,0 +1,10 @@
+h1{color: maroon;text-align: center;font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+.center {display:block;margin-left: auto;margin-right: auto;width: 50%;}
+.dropbtn {display:block;margin-left: auto;margin-right: auto;width: 50%;color: peru;}
+.dropbtn {background-color: aqua;color: blue;padding: 16px;font-size: 22px;border: none;}
+.dropdown-content {display: none;background-color: chocolate;min-width: 160px;box-shadow: 0px 8px 16px 0px rgba(rgb(204, 123, 123), rgb(67, 107, 67), rgb(107, 107, 141), alpha);z-index: 1;}
+.dropdown-content {margin-left: auto;margin-right: auto;width: 50%}
+.dropdown-content a {color:black; padding: 12px 16px;text-decoration: none;display: block;}
+.dropdown-content a:hover {background-color: #ddd;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: rgb(243, 181, 140);}
